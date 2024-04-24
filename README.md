@@ -1,8 +1,10 @@
 # Management System
-This is a project me and my friend created in class 12.
+The primary objective is to develop a management system to organize and manage brand-related data.
 <br>
-
-This project is about Management System where you can create, add, delete and update your given information.
+Utilizing Python as the frontend language to create an intuitive user interface for interacting with the system.
 <br>
-
-This includes Python as front-end and MySQL as back-end where all the information is sent to a Database.
+Employing MySQL as the backend database to store and retrieve information efficiently.
+<br>
+The system will facilitate the management of sales records, enabling users to track transactions and analyze sales data effectively.
+<br>
+It will also provide features to manage garment details, including inventory, specifications, and availability.
