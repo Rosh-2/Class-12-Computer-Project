@@ -2,10 +2,10 @@
 The primary objective of this project is to develop a management system to organize and manage brand-related data efficiently. This system leverages Python for the frontend and MySQL for the backend, providing a comprehensive solution for managing sales records and garment details.
 
 ## Project Overview
-# Frontend
+Frontend
 1. Language: Python
 2. Objective: Create an intuitive user interface for interacting with the system.
-# Backend
+Backend
 1. Database: MySQL
 2. Objective: Store and retrieve information efficiently to support the frontend operations.
 
