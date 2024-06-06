@@ -5,6 +5,7 @@ The primary objective of this project is to develop a management system to organ
 Frontend
 1. Language: Python
 2. Objective: Create an intuitive user interface for interacting with the system.
+<br>
 Backend
 1. Database: MySQL
 2. Objective: Store and retrieve information efficiently to support the frontend operations.
