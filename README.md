@@ -17,3 +17,4 @@ Garment Details Management
 2. Specifications Storage: Store detailed specifications of each garment.
 3. Availability Monitoring: Keep track of garment availability to ensure stock levels are optimized.
 
+The project includes the necessary Python code and MySQL database scripts.
