@@ -1,10 +1,16 @@
-# Management System
-The primary objective is to develop a management system to organize and manage brand-related data.
-<br>
-Utilizing Python as the frontend language to create an intuitive user interface for interacting with the system.
-<br>
-Employing MySQL as the backend database to store and retrieve information efficiently.
-<br>
-The system will facilitate the management of sales records, enabling users to track transactions and analyze sales data effectively.
-<br>
-It will also provide features to manage garment details, including inventory, specifications, and availability.
+# Branding Management System
+The primary objective of this project is to develop a management system to organize and manage brand-related data efficiently. This system leverages Python for the frontend and MySQL for the backend, providing a comprehensive solution for managing sales records and garment details.
+
+## Project Overview
+Garment Details Management
+1. Manage inventory
+2. Store garment specifications
+3. Monitor availability
+
+## Usage
+This management system is designed to streamline the organization and management of brand-related data, offering a user-friendly interface and robust backend support.
+Garment Details Management
+1. Inventory Management: Maintain and update garment inventory efficiently.
+2. Specifications Storage: Store detailed specifications of each garment.
+3. Availability Monitoring: Keep track of garment availability to ensure stock levels are optimized.
+
